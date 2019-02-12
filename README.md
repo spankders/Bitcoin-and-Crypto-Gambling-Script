@@ -3,6 +3,9 @@
  
  Demo - https://madisonscripts.com/demos/coingames/
  
+ 
+ Download - https://satoshibox.com/grd866re2txwycyyy5o2ad5k
+ 
  This is Sample code
  
  More info:
